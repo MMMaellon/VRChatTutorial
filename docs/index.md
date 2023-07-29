@@ -10,26 +10,4 @@ This tutorial aims build a foundation strong enough to make simple VRChat worlds
 !!! Note
     I might also get around to recording a video tutorial that covers the same topic for those with short attention spans.
 
-# Code Block Test
-
-=== "One"
-	```
-	hello world
-	```
-
-=== "Two"
-    ```
-    goodbye world
-    ```
-
-
-
-
-=== "Three"
-    ```
-    Test
-    ```
-=== "Four"
-    ```
-    another one
-    ```
+# [LETS GET STARTED](/Code Basics/Teaching Rocks to Think){ .md-button .md-button--primary }
