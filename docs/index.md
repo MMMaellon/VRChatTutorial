@@ -1,4 +1,4 @@
-# Coding for VRChat 101
+# Coding Tutorial for VRChat
 
 > by MMMaellon
 
@@ -7,7 +7,9 @@ This tutorial aims build a foundation strong enough to make simple VRChat worlds
 - Syncing
 - Improving FPS
 
-# [[Teaching Rocks to Think | Let's Get Started]]{ .md-button .md-button--primary }
+No coding experience is needed.
+
+## [[1. Teaching Rocks to Think| Let's Get Started]]{ .md-button .md-button--primary }
 
 
 
