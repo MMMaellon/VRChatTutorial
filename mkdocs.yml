@@ -2,6 +2,9 @@ site_name: obsidian-mkdocs template
 
 theme:
     name: 'material'
+    features:
+      - content.code.copy
+      - content.tabs.link
     palette:
 
     # Light mode
@@ -26,12 +29,10 @@ theme:
 markdown_extensions:
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
   - footnotes
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
   # - pymdownx.details
   # - pymdownx.magiclink
   - pymdownx.tasklist:
@@ -47,13 +48,22 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true 
 
   - toc:
       permalink: true
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
+  - glightbox
 
 
 extra_javascript:
