@@ -9,6 +9,6 @@ This tutorial aims build a foundation strong enough to make simple VRChat worlds
 
 I might also get around to recording a video tutorial that covers the same topic for those with short attention spans.
 
-> [!info] 
-> Testing
+!!! Note
+    This is the body of the note call-out
 
