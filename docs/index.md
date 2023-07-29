@@ -7,8 +7,29 @@ This tutorial aims build a foundation strong enough to make simple VRChat worlds
 - Syncing
 - Improving FPS
 
-I might also get around to recording a video tutorial that covers the same topic for those with short attention spans.
-
 !!! Note
-    This is the body of the note call-out
+    I might also get around to recording a video tutorial that covers the same topic for those with short attention spans.
 
+# Code Block Test
+
+=== "One"
+	```
+	hello world
+	```
+
+=== "Two"
+    ```
+    goodbye world
+    ```
+
+
+
+
+=== Three
+    ```
+    Test
+    ```
+=== Four
+    ```
+    another one
+    ```
