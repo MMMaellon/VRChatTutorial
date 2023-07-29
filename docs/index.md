@@ -10,4 +10,6 @@ This tutorial aims build a foundation strong enough to make simple VRChat worlds
 !!! Note
     I might also get around to recording a video tutorial that covers the same topic for those with short attention spans.
 
-# [LETS GET STARTED](/Code Basics/Teaching Rocks to Think){ .md-button .md-button--primary }
+# [LETS GET STARTED](Code%20Basics/Teaching Rocks%20to%20Think){ .md-button .md-button--primary }
+
+# [[Teaching Rocks to Think]]{ .md-button .md-button--primary }
