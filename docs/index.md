@@ -7,17 +7,9 @@ This tutorial aims build a foundation strong enough to make simple VRChat worlds
 - Syncing
 - Improving FPS
 
-No coding experience is needed.
+## No coding experience is needed.
 
 ## [[1. Teaching Rocks to Think| Let's Get Started]]{ .md-button .md-button--primary }
-
-
-
-
-
-
-
-
 
 ---
 !!! Note
