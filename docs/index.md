@@ -1,11 +1,14 @@
-# Obsidian Notes
+# Coding for VRChat 101
 
-TEST 7
+> by MMMaellon
 
-## Hello World!
+This tutorial aims build a foundation strong enough to make simple VRChat worlds. There's a lot to learn when it comes to programming, but we'll just focus on the basics needed for VRChat. These are things like:
+- Basic code structure
+- Syncing
+- Improving FPS
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+I might also get around to recording a video tutorial that covers the same topic for those with short attention spans.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+> [!info] 
+> Testing
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
