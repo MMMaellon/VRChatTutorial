@@ -67,10 +67,10 @@ plugins:
 
 
 extra_javascript:
-  # - javascripts/mathjax.js
-  # - https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.6.3/mermaid.min.js
-  - https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.2.4/mermaid.min.js
+  - javascripts/mathjax.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.6.3/mermaid.min.js
+  - https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs
   - https://polyfill.io/v3/polyfill.min.js?features=es6
-  # - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   # - https://unpkg.com/mermaid/dist/mermaid.min.js 
   # - https://cdn.jsdelivr.net/npm/mermaid@10.3.0/dist/mermaid.min.js
