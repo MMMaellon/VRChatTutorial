@@ -7,7 +7,7 @@ This tutorial aims build a foundation strong enough to make simple VRChat worlds
 
 ## No coding experience is needed.
 
-## [[1. Computers are dumb as rocks.| Let's Get Started]]{ .md-button .md-button--primary }
+## [[1. You Are Smarter Than Your Computer| Let's Get Started]]{ .md-button .md-button--primary }
 
 ---
 !!! Note
