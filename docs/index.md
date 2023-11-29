@@ -12,11 +12,15 @@ I recommend reading each section in order, but feel free to skip around and prog
 
 ---
 
-{==
-[[1. Computers/index| Section 1: Computers]]{ .md-button .md-button--primary }
-[[2. Unity/index | Section 2: Unity]]{ .md-button }
-[[3. VRChat/index | Section 3: VRChat]]{ .md-button }
-==}
+<div class="grid cards" markdown>
+
+- [[1. Computers/index| Section 1: Computers]]{ .md-button .md-button--primary .card }
+
+- [[2. Unity/index | Section 2: Unity]]{ .md-button .md-button--primary }
+
+- [[3. VRChat/index | Section 3: VRChat]]{ .md-button .card }
+
+</div>
 
 ---
 !!! Note
