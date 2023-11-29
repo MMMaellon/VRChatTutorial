@@ -1,24 +1,20 @@
 # Intro
 
-This tutorial explains how to program VRChat games for beginners who have literally never written a line of code before.
+This tutorial explains how to program VRChat games for beginners.
 
 {==
-## No coding experience required!
+No coding experience required!
+{ .h1 }
 ==}
 
-I will be doing my best to explain every concept from the ground up while focusing only on the essentials needed to work on VRChat worlds.
-
-I recommend reading each section in order, but feel free to skip around and progress at your own pace.
+I will be doing my best to explain every concept from the ground up while focusing only on the essentials needed to work on VRChat worlds. I recommend reading each section in order.
 
 ---
+# Sections
 
-<div class="grid cards" markdown>
-
-- [[1. Computers/index| Section 1: Computers]]
-- [[2. Unity/index | Section 2: Unity]]
-- [[3. VRChat/index | Section 3: VRChat]]
-
-</div>
+[[1. Computers/index| Section 1: Computers]]{ .md-button .md-button--primary }
+[[2. Unity/index | Section 2: Unity]]{ .md-button .md-button--primary }
+[[3. VRChat/index | Section 3: VRChat]]{ .md-button .md-button--primary }
 
 
 ---
