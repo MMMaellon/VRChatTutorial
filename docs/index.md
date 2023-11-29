@@ -2,17 +2,21 @@
 
 This tutorial explains how to program VRChat games for beginners who have literally never written a line of code before.
 
+{==
 ## No coding experience required!
+==}
 
 I will be doing my best to explain every concept from the ground up while focusing only on the essentials needed to work on VRChat worlds.
 
 I recommend reading each section in order, but feel free to skip around and progress at your own pace.
 
-## [[1. Computers/index| Section 1: Computers]]{ .md-button .md-button--primary }
+---
 
-## [[2. Unity/index | Section 2: Unity]]{ .md-button }
-
-## [[3. VRChat/index | Section 3: VRChat]]{ .md-button }
+{==
+[[1. Computers/index| Section 1: Computers]]{ .md-button .md-button--primary }
+[[2. Unity/index | Section 2: Unity]]{ .md-button }
+[[3. VRChat/index | Section 3: VRChat]]{ .md-button }
+==}
 
 ---
 !!! Note
