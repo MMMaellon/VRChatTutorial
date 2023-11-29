@@ -14,13 +14,12 @@ I recommend reading each section in order, but feel free to skip around and prog
 
 <div class="grid cards" markdown>
 
-- [[1. Computers/index| Section 1: Computers]]{ .md-button .md-button--primary .card }
-
-- [[2. Unity/index | Section 2: Unity]]{ .md-button .md-button--primary }
-
-- [[3. VRChat/index | Section 3: VRChat]]{ .md-button .card }
+- [[1. Computers/index| Section 1: Computers]]
+- [[2. Unity/index | Section 2: Unity]]
+- [[3. VRChat/index | Section 3: VRChat]]
 
 </div>
+
 
 ---
 !!! Note
