@@ -8,11 +8,11 @@ I will be doing my best to explain every concept from the ground up while focusi
 
 I recommend reading each section in order, but feel free to skip around and progress at your own pace.
 
-## [[1. Computers/index| 1. How Computers Work]]{ .md-button .md-button--primary }
+## [[1. Computers/index| Section 1: Computers]]{ .md-button .md-button--primary }
 
-## [[2. Unity/index | 2. How Unity Works]]{ .md-button }
+## [[2. Unity/index | Section 2: Unity]]{ .md-button }
 
-## [[3. VRChat/index | 3. How VRChat Works]]{ .md-button }
+## [[3. VRChat/index | Section 3: VRChat]]{ .md-button }
 
 ---
 !!! Note
