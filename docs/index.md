@@ -1,19 +1,17 @@
 # Intro
 
-This tutorial aims build a foundation strong enough to make simple VRChat worlds. There's a lot to learn when it comes to programming, but we'll just focus on the basics needed for VRChat. These are things like:
-- Basic code structure
-- Syncing
-- Improving FPS
+This tutorial explains how to program VRChat games for beginners who have literally never written a line of code before.
 
-## No coding experience is needed.
+## No coding experience required!
 
-I'm going to split the tutorial into 3 sections, and while I recommend reading it all in order, feel free to pick and choose what sections you want to read.
+I will be doing my best to explain every concept from the ground up without being boring by *only* focusing on the bare minimum needed to work on VRChat worlds.
+I recommend reading each section in order, but feel free to skip around and progress at your own pace.
 
-## [[1. Believe in yourself| Learn How Computers Work]]{ .md-button .md-button--primary }
+## [[1. Code Basics/1. Believe in yourself| How Computers Work]]{ .md-button .md-button--primary }
 
-## [[ | Learn How Unity Works]]
+## [[ | How Unity Works]]
 
-## [[ | Learn How VRChat Works]]
+## [[ | How VRChat Works]]
 
 ---
 !!! Note
