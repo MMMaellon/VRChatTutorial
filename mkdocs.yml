@@ -1,7 +1,7 @@
 site_name: Coding Tutorial for VRChat
 
 theme:
-    name: 'material'
+    name: 'material-components'
     features:
       - content.code.copy
       - content.tabs.link
