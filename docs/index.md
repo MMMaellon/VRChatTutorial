@@ -2,11 +2,10 @@
 
 This tutorial explains how to program VRChat games for beginners.
 
-{==
-<div class=".h1" markdown>
+
+> :bookmark:
 No coding experience required!
-</div>
-==}
+
 
 I will be doing my best to explain every concept from the ground up while focusing only on the essentials needed to work on VRChat worlds. I recommend reading each section in order.
 
